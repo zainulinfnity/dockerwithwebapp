@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s58CmskYYRBulMmxpEJJdnJlB+XNIfE09yxFqY6iJ7dXrvdux9j6AGYpLVZQKMRW+JdYwGAaURF0Sp87I1lQeg==",
+  "success": true,
+  "projectFilePath": "c:\\dhooni\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zain\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
